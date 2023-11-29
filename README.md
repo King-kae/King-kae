@@ -14,6 +14,6 @@ I'm a Software Engineer passionate about sharing knowledge, documentation, web e
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kingkaei&show_icons=true&include_all_commits=true&hide_border=true" alt="King's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingkae&langs_count=8&layout=compact&hide_border=true" alt="King's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=King-kae&show_icons=true&include_all_commits=true&hide_border=true" alt="King's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-kae&langs_count=8&layout=compact&hide_border=true" alt="King's GitHub stats" /> |
 
 | ------------- | ------------- |
